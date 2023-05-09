@@ -35,7 +35,12 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
+
+# OUTPUT
+ 
+ 
+ ![1 2 EXP](https://user-images.githubusercontent.com/119475721/237010159-ce4b646a-0821-4f7a-8240-5502367d5841.png)
+
  
  
  ## RESULT
